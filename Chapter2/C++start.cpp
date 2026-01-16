@@ -7,7 +7,7 @@ int main()
     int x;
     cout << "type in any number" << endl;
     cin >> x;
-    cout << x << endl;
+    cout << x << endl; 
 
     return 0;   
 }
